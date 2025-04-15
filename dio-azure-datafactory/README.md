@@ -27,3 +27,7 @@ Ao concluir a configuração selecione `Review + create`. Você será enviado(a)
 Ao final do processo é possível acessar o *Data Factory* recém criado (ver imagem).
 
 ![Data Factory](images/step03.png)
+
+## Template de configuração
+
+O template de automação está disponível na pasta [template](template/). O arquivo [parameters.json](template/parameters.json) apresenta os parâmetros de configuração e o arquivo [template.json](template/template.json) apresenta o template para a criação do recurso. **Importante:** insira o UUID da sua assinatura no arquivo [parameters.json](template/parameters.json).
