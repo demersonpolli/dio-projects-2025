@@ -64,3 +64,7 @@ E, inicialmente, a pasta *bronze* não contém qualquer arquivo.
 Após o processamento, a pasta *bronze* conterá um arquivo no formato *Parquet* contendo os mesmos dados do arquivo CSV.
 
 ![Final Output Folder](images/image12b.png)
+
+## Templates
+
+Os templates para a construção do *Azure Blob Storage* estão nos arquivos [storage-parameters.json](template/storage-parameters.json) e [storage-template.json](template/storage-template.json).
