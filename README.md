@@ -10,6 +10,8 @@ Este repositório contém todos os projetos elaborados para os *bootcamp*s da [D
 
 * **Cópia de arquivo com *Azure Data Factory*:** exemplo de como transferir dados entre fontes usando o *Azure Data Factory*, disponível em [dio-azure-datalake](dio-azure-datalake/).
 
+* **Configurando *Azure DevOps* para uso com *Azure Data Factory*:** exemplo de como configurar uma esteira de *DevOps* com o *Azure Data Factory*, disponível em [dio-azure-devops](dio-azure-devops/).
+
 * **E-book com uso de chatGPT:** e-book escrito com uso do chatGPT, disponível na pasta [dio-ebook-chatgpt](dio-ebook-chatgpt/)
 
 * **Executando notebooks no Databricks:** exemplo de utilização de notebooks no *Azure Databricks*, disponível na pasta [dio-azure-databricks](dio-azure-databricks/).
