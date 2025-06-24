@@ -14,6 +14,8 @@ Este repositório contém todos os projetos elaborados para os *bootcamp*s da [D
 
 * **E-book com uso de chatGPT:** e-book escrito com uso do chatGPT, disponível na pasta [dio-ebook-chatgpt](dio-ebook-chatgpt/)
 
+* **E-commerce usando Azure SQL e Blob Storage:** projeto do curso Microsoft Azure Cloud Native, disponível na pasta [dio-azure-ecommerce](dio-azure-ecommerce/).
+
 * **Executando notebooks no Databricks:** exemplo de utilização de notebooks no *Azure Databricks*, disponível na pasta [dio-azure-databricks](dio-azure-databricks/).
 
 * **Front-end para chatGPT em Node.js:** front-end desenvolvido em Node.js para o chat-GPT, disponível na pasta [dio-openai-nodejs](dio-openai-nodejs/).
