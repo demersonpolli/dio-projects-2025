@@ -4,9 +4,13 @@ Este repositório contém todos os projetos elaborados para os *bootcamp*s da [D
 
 ## Projetos
 
-* **Artigo com uso de chatGPT:** artigo técnico escrito com o uso do chatGPT, disponível na pasta [dio-artigo-chatgpt](dio-artigo-chatgpt/).
+* **Aluguel de carros com Azure:** projeto do curso Microsoft Azure Cloud Native, disponível na pasta [dio-azure-car-rental](dio-azure-car-rental/).
 
 * **API de Pagamentos com Azure API Management:** projeto do curso Microsoft Azure Cloud Native, disponível na pasta [dio-azure-api-management](dio-azure-api-management/).
+
+* **Artigo com uso de chatGPT:** artigo técnico escrito com o uso do chatGPT, disponível na pasta [dio-artigo-chatgpt](dio-artigo-chatgpt/).
+
+* **Autenticador de boletos:** projeto do curso Microsoft Azure Cloud Native, disponível na pasta [dio-azure-autenticador](dio-azure-autenticador/).
 
 * **Blog usando Container Apps:** projeto do curso Microsoft Azure Cloud Native, disponível na pasta [dio-azure-blog-container](dio-azure-blog-container/).
 
@@ -25,3 +29,5 @@ Este repositório contém todos os projetos elaborados para os *bootcamp*s da [D
 * **Front-end para chatGPT em Node.js:** front-end desenvolvido em Node.js para o chat-GPT, disponível na pasta [dio-openai-nodejs](dio-openai-nodejs/).
 
 * **Previsão de vendas usando Azure AutoML:** modelo de regressão usando Azure AutoML, disponível na pasta [dio-azure-ml-icecream](dio-azure-ml-icecream/)
+
+* **Tutorial de Copilot:** projeto do curso Microsoft Azure Cloud Native, disponível na pasta [dio-azure-copilot-tutorial](dio-azure-copilot-tutorial/).
