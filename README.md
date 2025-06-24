@@ -6,6 +6,8 @@ Este repositório contém todos os projetos elaborados para os *bootcamp*s da [D
 
 * **Artigo com uso de chatGPT:** artigo técnico escrito com o uso do chatGPT, disponível na pasta [dio-artigo-chatgpt](dio-artigo-chatgpt/).
 
+* **API de Pagamentos com Azure API Management:** projeto do curso Microsoft Azure Cloud Native, disponível na pasta [dio-azure-api-management](dio-azure-api-management/).
+
 * **Blog usando Container Apps:** projeto do curso Microsoft Azure Cloud Native, disponível na pasta [dio-azure-blog-container](dio-azure-blog-container/).
 
 * **Configuração do *Azure Data Factory*:** descrição do processo para criar um *Azure Data Factory*, disponível na pasta [dio-azure-datafactory](dio-azure-datafactory/).
